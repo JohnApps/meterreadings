@@ -1,4 +1,4 @@
-USE [allMetersLWP]
+USE [meterReadings]
 GO
 
 /****** Object:  Table [dbo].[pump$]    Script Date: 2018-10-18 12:21:58 ******/

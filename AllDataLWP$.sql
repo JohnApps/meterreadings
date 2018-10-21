@@ -1,4 +1,4 @@
-USE [allMetersLWP]
+USE [meterReadings]
 GO
 
 /****** Object:  Table [dbo].[AllDataLWP$]    Script Date: 2018-10-18 12:19:11 ******/
