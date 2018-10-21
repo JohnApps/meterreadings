@@ -1,6 +1,6 @@
 ﻿Inbetriebnahme WP
 
-8.6.2018;17:40
+20.10.2018;18:4
 Seriennummer;000000-000
 KD-Index;a
 Seriennummer 2;000000-000
@@ -18,7 +18,7 @@ Anlagenstatus:
 Wärmepumpen Typ;L2G407
 Softwarestand;V1.81
 Bivalenz Stufe;1
-Betriebszustand;----
+Betriebszustand;WW
 
 System Einstellung:
 EVU-Sperre;ohne ZWE
@@ -97,41 +97,41 @@ Heizkurven Heizung;34.0C;22.0C;0.0K
 Heizkurven Mischkreis 1;40.0C;26.0C;0.0K
 
 Informationen Betriebsstunden:
-Betriebstund. VD1;1755h
-Impulse Verdichter 1;2321
-Laufzeit Ø VD1;00:45
-Betriebstund. VD2;1754h
-ImpulseVerdichter 2;2322
-Laufzeit Ø VD2;00:45
+Betriebstund. VD1;1920h
+Impulse Verdichter 1;2724
+Laufzeit Ø VD1;00:42
+Betriebstund. VD2;1918h
+ImpulseVerdichter 2;2724
+Laufzeit Ø VD2;00:42
 Betriebstunden ZWE1;94h
-Betriebstunden WP;3167h
-Betriebstunden Heiz.;2319h
-Betriebstunden WW;848h
+Betriebstunden WP;3495h
+Betriebstunden Heiz.;2439h
+Betriebstunden WW;1055h
 
 
 Informationen Temperaturen:
-Vorlauf;32.3°C
-Rücklauf;34.9°C
-Rückl.-Soll;24.7°C
-Rückl.-Extern;24.8°C
-Heissgas;25.7°C
-Aussentemperatur;17.7°C
-Mitteltemperatur;17.5°C
-Warmwasser-Ist;51.1°C
-Warmwasser-Soll;53.0°C
-Wärmequelle-Ein;18.8°C
-Wärmequelle-Aus;18.4°C
-Mischkreis1-Vorlauf;24.9°C
-Mischkreis1 VL-Soll;32.8°C
+Vorlauf;30.6°C
+Rücklauf;38.0°C
+Rückl.-Soll;27.5°C
+Rückl.-Extern;26.1°C
+Heissgas;25.4°C
+Aussentemperatur;12.2°C
+Mitteltemperatur;9.8°C
+Warmwasser-Ist;45.9°C
+Warmwasser-Soll;50.0°C
+Wärmequelle-Ein;11.9°C
+Wärmequelle-Aus;9.7°C
+Mischkreis1-Vorlauf;26.2°C
+Mischkreis1 VL-Soll;36.2°C
 Vorlauf max.;61.0°C
 
 
 Nein = Nein
 
 Abschaltungen:
-08.06.18 09:36 keine Anf.;
-08.06.18 07:40 keine Anf.;
-07.06.18 21:50 keine Anf.;
-07.06.18 18:43 keine Anf.;
-07.06.18 07:41 keine Anf.;
+20.10.18 17:02 keine Anf.;
+20.10.18 12:32 Luftabt;
+20.10.18 10:54 keine Anf.;
+20.10.18 08:54 keine Anf.;
+20.10.18 06:56 Luftabt;
 
