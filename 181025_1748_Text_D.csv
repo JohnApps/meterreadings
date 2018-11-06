@@ -1,6 +1,6 @@
 ﻿Inbetriebnahme WP
 
-6.8.2018;17:35
+25.10.2018;17:48
 Seriennummer;000000-000
 KD-Index;a
 Seriennummer 2;000000-000
@@ -97,41 +97,41 @@ Heizkurven Heizung;34.0C;22.0C;0.0K
 Heizkurven Mischkreis 1;40.0C;26.0C;0.0K
 
 Informationen Betriebsstunden:
-Betriebstund. VD1;1802h
-Impulse Verdichter 1;2433
-Laufzeit Ø VD1;00:44
-Betriebstund. VD2;1802h
-ImpulseVerdichter 2;2434
-Laufzeit Ø VD2;00:44
+Betriebstund. VD1;1939h
+Impulse Verdichter 1;2772
+Laufzeit Ø VD1;00:41
+Betriebstund. VD2;1941h
+ImpulseVerdichter 2;2771
+Laufzeit Ø VD2;00:42
 Betriebstunden ZWE1;94h
-Betriebstunden WP;3262h
-Betriebstunden Heiz.;2335h
-Betriebstunden WW;927h
+Betriebstunden WP;3538h
+Betriebstunden Heiz.;2468h
+Betriebstunden WW;1070h
 
 
 Informationen Temperaturen:
-Vorlauf;33.7°C
-Rücklauf;35.0°C
-Rückl.-Soll;15.0°C
-Rückl.-Extern;24.5°C
-Heissgas;30.4°C
-Aussentemperatur;29.3°C
-Mitteltemperatur;22.3°C
-Warmwasser-Ist;62.2°C
+Vorlauf;30.2°C
+Rücklauf;24.2°C
+Rückl.-Soll;27.0°C
+Rückl.-Extern;27.6°C
+Heissgas;23.5°C
+Aussentemperatur;13.1°C
+Mitteltemperatur;11.1°C
+Warmwasser-Ist;53.0°C
 Warmwasser-Soll;53.0°C
-Wärmequelle-Ein;29.5°C
-Wärmequelle-Aus;27.9°C
-Mischkreis1-Vorlauf;25.0°C
-Mischkreis1 VL-Soll;22.4°C
+Wärmequelle-Ein;11.1°C
+Wärmequelle-Aus;8.0°C
+Mischkreis1-Vorlauf;27.7°C
+Mischkreis1 VL-Soll;35.7°C
 Vorlauf max.;61.0°C
 
 
 Nein = Nein
 
 Abschaltungen:
-06.08.18 09:01 keine Anf.;
-05.08.18 22:00 keine Anf.;
-05.08.18 10:11 keine Anf.;
-05.08.18 07:55 keine Anf.;
-04.08.18 08:58 keine Anf.;
+25.10.18 17:00 keine Anf.;
+25.10.18 11:30 keine Anf.;
+25.10.18 10:44 Luftabt;
+25.10.18 09:05 keine Anf.;
+25.10.18 07:31 keine Anf.;
 
