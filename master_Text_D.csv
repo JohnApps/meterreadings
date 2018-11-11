@@ -1,137 +1,137 @@
-﻿Inbetriebnahme, WP
+﻿Inbetriebnahme WP
 
-4.11.2018,17:53
-Seriennummer,000000-000
-KD-Index,a
-Seriennummer 2,000000-000
-KD-Index 2,a
-Seriennummer 3,000000-000
-KD-Index 3,a
-MAC,40-ec-f8-0b-52-e2
+10.11.2018;17:35
+Seriennummer;000000-000
+KD-Index;a
+Seriennummer 2;000000-000
+KD-Index 2;a
+Seriennummer 3;000000-000
+KD-Index 3;a
+MAC;40-ec-f8-0b-52-e2
 
-IP,192.168.42.4
-Subntzmsk.,255.255.255.0
-Broadcast,192.168.42.255
-Gateway,0.0.0.0
+IP;192.168.42.4
+Subntzmsk.;255.255.255.0
+Broadcast;192.168.42.255
+Gateway;0.0.0.0
 
 Anlagenstatus:
-Wärmepumpen Typ,L2G407
-Softwarestand,V1.81
-Bivalenz Stufe,1
-Betriebszustand,Heizen
+Wärmepumpen Typ;L2G407
+Softwarestand;V1.81
+Bivalenz Stufe;1
+Betriebszustand;WW
 
 System Einstellung:
-EVU-Sperre,ohne ZWE
-Raumstation,Nein
-Einbindung,Trennsp
-Mischkreis 1,Entlade
-ZWE1 Art,Heizstab
-ZWE1 Fkt,Hz u. Ww
-ZWE2 Art,Nein
-ZWE2 Fkt,Nein
-Störung,Heizung
-Warmwasser1,Fuehler
-Warmwasser2,ZIP
-Warmwasser3,mit ZUP
-Warmwasser4,Sollwert
-Warmwasser5,mit HUP
-WW+WP max,0.0 h
-Abtzyk max,45 min
-Luftabt.,Ja
-Luft-Abt. max,15 min
-Abtauen 2,mit 1VD
-Pumpenoptim.,Nein
-Zugang,KD
-ÜberwachungVD,Ein
-Regelung HK,AT-Abh.
-Regelung MK1,AT-Abh.
-Ausheizen,m. Misch
-Elektr. Anode,Nein
-Heizgrenze,Ja
-Parallelbetrieb,Nein
-Fernwartung,Nein
-Pumpenoptim. Zeit,180 min
-Abtzyk min,45 min
-Verkürzung 2.VD,20 min
-Meldung TDI,Ja
-Freig. ZWE,30 min
-Warmw. Nachheizung,Nein
-Warmw. Nachh. max,5.0 h
-Smart Grid,Nein
-Regelung MK1,schnell
+EVU-Sperre;ohne ZWE
+Raumstation;Nein
+Einbindung;Trennsp
+Mischkreis 1;Entlade
+ZWE1 Art;Heizstab
+ZWE1 Fkt;Hz u. Ww
+ZWE2 Art;Nein
+ZWE2 Fkt;Nein
+Störung;Heizung
+Warmwasser1;Fuehler
+Warmwasser2;ZIP
+Warmwasser3;mit ZUP
+Warmwasser4;Sollwert
+Warmwasser5;mit HUP
+WW+WP max;0.0 h
+Abtzyk max;45 min
+Luftabt.;Ja
+Luft-Abt. max;15 min
+Abtauen 2;mit 1VD
+Pumpenoptim.;Nein
+Zugang;KD
+ÜberwachungVD;Ein
+Regelung HK;AT-Abh.
+Regelung MK1;AT-Abh.
+Ausheizen;m. Misch
+Elektr. Anode;Nein
+Heizgrenze;Ja
+Parallelbetrieb;Nein
+Fernwartung;Nein
+Pumpenoptim. Zeit;180 min
+Abtzyk min;45 min
+Verkürzung 2.VD;20 min
+Meldung TDI;Ja
+Freig. ZWE;30 min
+Warmw. Nachheizung;Nein
+Warmw. Nachh. max;5.0 h
+Smart Grid;Nein
+Regelung MK1;schnell
 
 Temperaturen :
 Temperaturen:
-Rückl.-Begr.,45.0°C
-Hysterese HR,2.0 K
-TR Erh max,7.0 K
-Freig. 2.VD,5.0°C
-Freig. ZWE,-2.0°C
-T-Luftabt.,7.0°C
-TDI-Solltemp,65.0°C
-Hysterese WW,4.0 K
-Vorl 2.VD WW,50.0°C
-TAussen max,35.0°C
-TAussen min,-20.0°C
-T-HG max,140.0°C
-T-LABT-Ende,6.0°C
-Absenk. bis,-20.0°C
-Vorlauf max.,61.0°C
-min. AT VL max.,-7.0°C
-Vorlauf EG,50.0°C
-Hysterese 2.VD verk.,4.0°C
-Max.Warmwassertemp.,65.0°C
-Min. Rückl.Solltemp.,15.0°C
-Minimaler Vorlauf MK 1,20.0°C
-Maximaler Vorlauf MK 1,50.0°C
+Rückl.-Begr.;45.0°C
+Hysterese HR;2.0 K
+TR Erh max;7.0 K
+Freig. 2.VD;5.0°C
+Freig. ZWE;-2.0°C
+T-Luftabt.;7.0°C
+TDI-Solltemp;65.0°C
+Hysterese WW;4.0 K
+Vorl 2.VD WW;50.0°C
+TAussen max;35.0°C
+TAussen min;-20.0°C
+T-HG max;140.0°C
+T-LABT-Ende;6.0°C
+Absenk. bis;-20.0°C
+Vorlauf max.;61.0°C
+min. AT VL max.;-7.0°C
+Vorlauf EG;50.0°C
+Hysterese 2.VD verk.;4.0°C
+Max.Warmwassertemp.;65.0°C
+Min. Rückl.Solltemp.;15.0°C
+Minimaler Vorlauf MK 1;20.0°C
+Maximaler Vorlauf MK 1;50.0°C
 
 Prioritäten :
-Warmwasser,1
-Heizung,2
+Warmwasser;1
+Heizung;2
 
 Anlagenkonfiguration :
-Heizung,1
-Warmwasser,1
+Heizung;1
+Warmwasser;1
 
-Heizkurven Heizung,34.0C,22.0C,0.0K
-Heizkurven Mischkreis 1,40.0C,26.0C,0.0K
+Heizkurven Heizung;34.0C;22.0C;0.0K
+Heizkurven Mischkreis 1;40.0C;26.0C;0.0K
 
 Informationen Betriebsstunden:
-Betriebstund. VD1,1992h
-Impulse Verdichter 1,2877
-Laufzeit Ø VD1,00:41
-Betriebstund. VD2,1995h
-ImpulseVerdichter 2,2877
-Laufzeit Ø VD2,00:41
-Betriebstunden ZWE1,94h
-Betriebstunden WP,3644h
-Betriebstunden Heiz.,2541h
-Betriebstunden WW,1103h
+Betriebstund. VD1;2017h
+Impulse Verdichter 1;2935
+Laufzeit Ø VD1;00:41
+Betriebstund. VD2;2020h
+ImpulseVerdichter 2;2935
+Laufzeit Ø VD2;00:41
+Betriebstunden ZWE1;94h
+Betriebstunden WP;3693h
+Betriebstunden Heiz.;2572h
+Betriebstunden WW;1121h
 
 
 Informationen Temperaturen:
-Vorlauf,25.0°C
-Rücklauf,26.8°C
-Rückl.-Soll,28.8°C
-Rückl.-Extern,26.8°C
-Heissgas,21.4°C
-Aussentemperatur,9.0°C
-Mitteltemperatur,9.2°C
-Warmwasser-Ist,53.2°C
-Warmwasser-Soll,53.0°C
-Wärmequelle-Ein,6.1°C
-Wärmequelle-Aus,-0.1°C
-Mischkreis1-Vorlauf,26.8°C
-Mischkreis1 VL-Soll,37.9°C
-Vorlauf max.,61.0°C
+Vorlauf;52.4°C
+Rücklauf;49.6°C
+Rückl.-Soll;29.7°C
+Rückl.-Extern;27.2°C
+Heissgas;95.8°C
+Aussentemperatur;6.7°C
+Mitteltemperatur;7.2°C
+Warmwasser-Ist;50.0°C
+Warmwasser-Soll;53.0°C
+Wärmequelle-Ein;7.0°C
+Wärmequelle-Aus;-3.8°C
+Mischkreis1-Vorlauf;27.3°C
+Mischkreis1 VL-Soll;39.0°C
+Vorlauf max.;61.0°C
 
 
 Nein = Nein
 
 Abschaltungen:
-04.11.18 17:11 keine Anf.,
-04.11.18 15:11 keine Anf.,
-04.11.18 13:27 keine Anf.,
-04.11.18 12:24 Luftabt,
-04.11.18 10:43 keine Anf.,
+10.11.18 17:01 Luftabt;
+10.11.18 15:50 keine Anf.;
+10.11.18 13:41 keine Anf.;
+10.11.18 12:44 Luftabt;
+10.11.18 11:44 keine Anf.;
 
