@@ -1,0 +1,137 @@
+﻿Inbetriebnahme WP
+
+11.7.2019;17:31
+Seriennummer;000000-000
+KD-Index;a
+Seriennummer 2;000000-000
+KD-Index 2;a
+Seriennummer 3;000000-000
+KD-Index 3;a
+MAC;40-ec-f8-0b-52-e2
+
+IP;192.168.42.4
+Subntzmsk.;255.255.255.0
+Broadcast;192.168.42.255
+Gateway;0.0.0.0
+
+Anlagenstatus:
+Wärmepumpen Typ;L2G407
+Softwarestand;V1.81
+Bivalenz Stufe;1
+Betriebszustand;----
+
+System Einstellung:
+EVU-Sperre;ohne ZWE
+Raumstation;Nein
+Einbindung;Trennsp
+Mischkreis 1;Entlade
+ZWE1 Art;Heizstab
+ZWE1 Fkt;Hz u. Ww
+ZWE2 Art;Nein
+ZWE2 Fkt;Nein
+Störung;Heizung
+Warmwasser1;Fuehler
+Warmwasser2;ZIP
+Warmwasser3;mit ZUP
+Warmwasser4;Sollwert
+Warmwasser5;mit HUP
+WW+WP max;0.0 h
+Abtzyk max;45 min
+Luftabt.;Ja
+Luft-Abt. max;15 min
+Abtauen 2;mit 1VD
+Pumpenoptim.;Nein
+Zugang;KD
+ÜberwachungVD;Ein
+Regelung HK;AT-Abh.
+Regelung MK1;AT-Abh.
+Ausheizen;m. Misch
+Elektr. Anode;Nein
+Heizgrenze;Ja
+Parallelbetrieb;Nein
+Fernwartung;Nein
+Pumpenoptim. Zeit;180 min
+Abtzyk min;45 min
+Verkürzung 2.VD;20 min
+Meldung TDI;Ja
+Freig. ZWE;30 min
+Warmw. Nachheizung;Nein
+Warmw. Nachh. max;5.0 h
+Smart Grid;Nein
+Regelung MK1;schnell
+
+Temperaturen :
+Temperaturen:
+Rückl.-Begr.;45.0°C
+Hysterese HR;2.5 K
+TR Erh max;7.0 K
+Freig. 2.VD;5.0°C
+Freig. ZWE;-2.0°C
+T-Luftabt.;7.0°C
+TDI-Solltemp;65.0°C
+Hysterese WW;3.0 K
+Vorl 2.VD WW;50.0°C
+TAussen max;35.0°C
+TAussen min;-20.0°C
+T-HG max;140.0°C
+T-LABT-Ende;6.0°C
+Absenk. bis;-20.0°C
+Vorlauf max.;61.0°C
+min. AT VL max.;-7.0°C
+Vorlauf EG;50.0°C
+Hysterese 2.VD verk.;4.0°C
+Max.Warmwassertemp.;65.0°C
+Min. Rückl.Solltemp.;15.0°C
+Minimaler Vorlauf MK 1;20.0°C
+Maximaler Vorlauf MK 1;50.0°C
+
+Prioritäten :
+Warmwasser;1
+Heizung;2
+
+Anlagenkonfiguration :
+Heizung;1
+Warmwasser;1
+
+Heizkurven Heizung;34.5C;24.0C;0.0K
+Heizkurven Mischkreis 1;40.5C;28.0C;0.0K
+
+Informationen Betriebsstunden:
+Betriebstund. VD1;3572h
+Impulse Verdichter 1;4833
+Laufzeit Ø VD1;00:44
+Betriebstund. VD2;3620h
+ImpulseVerdichter 2;4833
+Laufzeit Ø VD2;00:44
+Betriebstunden ZWE1;109h
+Betriebstunden WP;6742h
+Betriebstunden Heiz.;4888h
+Betriebstunden WW;1854h
+
+
+Informationen Temperaturen:
+Vorlauf;44.2°C
+Rücklauf;40.0°C
+Rückl.-Soll;15.0°C
+Rückl.-Extern;26.8°C
+Heissgas;30.9°C
+Aussentemperatur;19.7°C
+Mitteltemperatur;16.0°C
+Warmwasser-Ist;50.9°C
+Warmwasser-Soll;51.0°C
+Wärmequelle-Ein;19.1°C
+Wärmequelle-Aus;16.5°C
+Mischkreis1-Vorlauf;27.4°C
+Mischkreis1 VL-Soll;35.0°C
+Vorlauf max.;61.0°C
+
+
+Nein = Nein
+
+Abschaltungen:
+11.07.19 15:50 keine Anf.;
+11.07.19 11:02 keine Anf.;
+11.07.19 08:33 keine Anf.;
+11.07.19 04:49 keine Anf.;
+11.07.19 02:58 keine Anf.;
+
